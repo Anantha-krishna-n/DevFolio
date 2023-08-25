@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+
+.navbar{
+    background-color: blue;
+    height:40px;
+    justify-content: flex-start;
+    
+  padding-top: 15px;
+   
+    
+
+}
+.contentspace{
+    height: 600px;
+    background-color: aqua;
+}
+.footerpanel{
+    background-color: brown;
+    color: antiquewhite;
+    height: 300px;
+    margin-top: 15px;
+    
+}
